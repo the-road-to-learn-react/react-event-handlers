@@ -4,6 +4,8 @@
 
 Showcasing how different React event handlers work. [Read more about it.](https://www.robinwieruch.de/react-event-handler/)
 
+[![Edit react-event-handlers](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/the-road-to-learn-react/react-event-handlers/tree/master/?fontsize=14)
+
 ## Installation
 
 - `git clone git@github.com:the-road-to-learn-react/react-event-handlers.git`
